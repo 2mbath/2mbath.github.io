@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://2mbath.github.io/sitemap/sitemap.txt
